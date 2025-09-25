@@ -1,4 +1,4 @@
-const apiKey = "91dec257912c4801b629ec130c0c7155";
+const apiKey = "REPLACE_WITH_YOUR_KEY";
 
 async function getRecipes() {
   const input = document.getElementById("ingredientInput").value;
